@@ -1,1 +1,3 @@
-# Design_and_Analysis_of_Algorithms
+This repo contains my assignments for a course on the Design and Analysis of Algorithms
+
+Grade recieved: :a: ➕
